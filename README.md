@@ -1,13 +1,13 @@
-Interaktive Medien 5
+# Interaktive Medien 5
 
 
-Projektidee
+# Projektidee
  
 Da ich mir relativ lange unsicher war, worüber ich meine Bachelorarbeit schreiben sollte, beschloss ich, ein Projekt umzusetzen, welches mir ein wenig Struktur diesbezüglich geben  sollte. So kam es zur Konzeption von “TaskAnchor”, einer Seite, mit der ich regelmässige Aufgaben der Bachelorarbeit im Blick behalten kann.
 Also entschied ich mich, mit HTML, CSS, Javascript, php und Datenbanken zu arbeiten, um diese Webseite umsetzen zu können.
 
 
-Umsetzung
+# Umsetzung
 
 Anfangs versuchte ich, komplett auf mich alleine gestellt, die Webseite zu erstellen. Erst das HTML, dann das Loginsystem, danach das Aufgabensystem und zu guter Letzt das CSS. Das war zumindest der Plan. Relativ schnell musste ich feststellen, dass das gar nicht so einfach war, wie ich es mir vorgestellt hatte. Dazu kam auch noch die Tatsache, dass ich webtechmässig sehr aus der Übung gekommen war. 
 
@@ -17,12 +17,12 @@ Da ChatGPT ein wenig mehr “Erfahrung” im Umgang mit php hat, konnte es mir d
 Die Funktionalität war nun also gewährleistet, nun ging es ans Visuelle. Also ganz entspannt ein wenig mit CSS herumspielen. Mir fiel leider erst nach 2 Zeilen Code auf, dass ich vor lauter Javascript und php vergessen hatte, wie CSS (Quelle 3) funktioniert, was sich auch im Mangel an Schönheit der Webseite widerspiegelt. Aber naja, sie tut das, was sie soll.
 
 
-Fazit
+# Fazit
 
 Schlussendlich verwende ich eine Version meiner Seite auf einem privaten Hosting effektiv für meine Bachelorarbeit, was bis jetzt ziemlich gut funktioniert.
 
 
-Quellen:
+# Quellen:
 
 Youtube Tutorial (https://www.youtube.com/watch?v=5L9UhOnuos0&t=3s&ab_channel=DaveHollingworth)
 
